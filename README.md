@@ -35,6 +35,6 @@ Give a ⭐ if this project helped you!
 > 💡BECOME A PARTRON
 ## 📝 License
 Copyright © 2019 Frank Abgrall.
-This project is [MIT](https://opensource.org/license/mit/) Licensed.this 
+This project is [MIT](https://opensource.org/license/mit/) Licensed.
 
 ##
